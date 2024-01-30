@@ -21,7 +21,7 @@ Para conseguir se imaginar dentro do jogo ou recriar as cartas que você não co
 #### Cloning
 ```ps
   # Clone o repositório utilizando o git
-  $ git clone https://github.com/BrenoVieira41/create-fifa-cards.
+  $ git clone https://github.com/BrenoVieira41/create-fifa-cards.git
 
 ```
 <br>
